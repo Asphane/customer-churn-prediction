@@ -6,6 +6,7 @@ A machine learning web application built using **Streamlit** that predicts wheth
 
 📌 Demo
 🔗 [GitHub Repository](https://github.com/Asphane/customer-churn-prediction)
+🔗 [Click here to view the deployed app](https://customer-churn-prediction-dhqsdgk9us9b7aenutmccn.streamlit.app/)
 
 ---
 
